@@ -1,0 +1,12 @@
+body  {
+  background-color: rgb(78, 77, 77);
+  width: 50%;
+  margin: auto;
+}
+
+h1, h2{
+  background-color: rgb(3, 146, 146);
+  padding: 1em;
+  box-shadow:3px 3px black ;
+  border-radius: 2px;
+}
